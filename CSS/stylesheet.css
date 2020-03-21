@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Baloo Chettan 2';
+    src: url('../Fonts/BalooChettan2-Regular.ttf');
+}
+
+body {
+    font-family: 'Baloo Chettan 2';
+    background-color: lightblue;
+}
+  
+h1 {
+    color: navy;
+    text-align: center;
+}
