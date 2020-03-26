@@ -8,6 +8,8 @@ body {
     background-color: lightblue;
     background-image: url("/Images/programming.jpg");
     background-color: #cccccc;
+    background-position: center;
+    background-size: cover;
 }
   
 h1 {
