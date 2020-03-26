@@ -6,6 +6,8 @@
 body {
     font-family: 'Baloo Chettan 2';
     background-color: lightblue;
+    background-image: url("/Images/programming.jpg");
+    background-color: #cccccc;
 }
   
 h1 {
